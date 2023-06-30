@@ -1,7 +1,6 @@
 # Vite Starter
 
-Vite starter template with React and Typescript. It provides a solid foundation for building web applications using modern technologies. This template includes support for environment variables, allowing easy configuration of your project. It also leverages Sass for styling, making it convenient to create visually appealing designs. With a well-organized project structure and clear documentation, vite-starter helps you get started quickly and efficiently. The project is licensed under the MIT License, giving you the freedom to use and modify it as needed.
-
+Vite starter template with React and Typescript. It provides a solid foundation for building web applications using modern technologies. This template includes support for environment variables, allowing easy configuration of your project. It also leverages Sass for styling, making it convenient to create visually appealing designs. 
 
 ## Getting Started
 
