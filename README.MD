@@ -50,5 +50,5 @@ The project structure is organized as follows:
 - `tsconfig.node.json`: TypeScript configuration for Node.js
 - `vite.config.ts`: Vite configuration
 
-# License
+## License
 This project is licensed under the MIT License.
